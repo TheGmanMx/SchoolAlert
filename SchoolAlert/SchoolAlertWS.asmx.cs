@@ -20,7 +20,7 @@ namespace SchoolAlert
         [WebMethod]
         public string HelloWorld()
         {
-            return "Hello World";
+            return "Viva Villa!";
         }
     }
 }
