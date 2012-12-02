@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ByteStoreWebService/bytestoreBD.asmx.cs">
+    <Files>
+      <File FileName="ByteStoreWebService/bytestoreBD.asmx.cs" Line="183" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/hernan/Desktop/ByteStoreWebService/ByteStoreWebService/bytestoreBD.asmx.cs" line="264" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
